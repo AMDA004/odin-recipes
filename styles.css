@@ -1,0 +1,29 @@
+.recipe-name{
+    background-color: black;
+    color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe-header, .recipe-ingredients{
+    background-color: red;
+    color: white;
+    font-size: 24px;
+}
+
+.recipe-ingredients.recipe-stepbystep{
+    text-align: center
+}
+
+ul li{
+    background-color: blue;
+    color: black;
+    font-size: 18px;
+}
+
+ol li{
+    background-color: black;
+    color: blue;
+    font-size: 18px;
+}
